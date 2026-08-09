@@ -1,0 +1,19 @@
+.claude/settings.local.json
+.claude/*.local.json
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local/editor files
+.DS_Store
+.vscode/settings.json
+
+# CodePath staff reference bundles
+codepath-staff-*/
